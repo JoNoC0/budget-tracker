@@ -1,5 +1,5 @@
 // global constants 
-const APP_PREFIX = 'FoodFest-';     
+const APP_PREFIX = 'BudgetTracker-';     
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 
@@ -20,7 +20,7 @@ const FILES_TO_CACHE = [
   '/icons/icon-512x512.png'  
 ];
 
-// adding files to the precache so that the application can use the cache (installing service worker)
+// adding files to the pre-cache so that the application can use the cache (installing service worker)
 self.addEventListener('install', function (e) {
   e.waitUntil(
       caches.open(CACHE_NAME).then(function (cache) {

@@ -22,32 +22,28 @@ First user needs to <a href="https://github.com/JoNoC0/budget-tracker">Clone rep
 # Usage
 To use: follow instructions below
 
-<ul><code>https://budget-tracker1126.herokuapp.com/</code></ul>
-<ul><code>source db/schema.sql</code></ul>
-<ul><code>source db/seeds.sql</code></ul>
-
-Exit the sql shell and return to the command line still within your root project folder.
-
-Run the following commands:
+<ul><code>https://github.com/JoNoC0/budget-tracker</code></ul>
 
 <ul><code>npm start</code></ul>
 
 
 # Documentation
 
-## Starting app locally using "npm start"
-<img src="https://github.com/JoNoC0/employee-tracker/blob/main/assets/images/employeeTracker1.png?raw=true" alt="employee tracker CLI" title="employee tracker CLI" style="max-width: 25">
+## Budget-Tracker Screenshot 
+<img src="https://github.com/JoNoC0/budget-tracker/blob/main/assets/images/budget.png?raw=true" alt="budget-tracker screenshot " title="employee tracker CLI" style="max-width: 25">
 
-## Employee tracker asking questions and waiting for user response(selection)
-<img src="https://github.com/JoNoC0/employee-tracker/blob/main/assets/images/employeeTracker2.png?raw=true" alt="employee tracker CLI" title="employee tracker CLI" style="max-width: 25">
+## Budget-Tracker Screenshot 2
+<img src="https://github.com/JoNoC0/budget-tracker/blob/main/assets/images/budget2.png?raw=true" alt="budget-tracker screenshot 2" title="employee tracker CLI" style="max-width: 25">
 
+## Budget-Tracker Screenshot 3
+<img src="https://github.com/JoNoC0/budget-tracker/blob/main/assets/images/budget3.png?raw=true" alt="budget-tracker screenshot 3" title="budget-tracker" style="max-width 25">
 ## Employee Tracker Demo
 <img src="./assets/images/employee-tracker.gif"></img>
 
 # Credits
 
-University of Texas in Austin Coding Bootcamp Week 12 Module 12: SQL Challenge
-Tech-Blog
+University of Texas in Austin Coding Bootcamp Week 19 Module 19: PWA Challenge
+Budget-Tracker
 
 # License
 
@@ -64,8 +60,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 John Nguyen
 <li><a href="mailto:jnguyeningco@gmail.com">Email</a>
 <li><a href="https://www.linkedin.com/in/john-nguyen-49158621a">Linked In</a>
-<li><a href="https://github.com/JoNoC0/employee-tracker">employee-tracker</a>
-<li><a href="https://drive.google.com/file/d/1ebWz44d8-53H27RAGqTzlOkqC_-4-Zi3/view">Video Link</a>
+<li><a href="https://github.com/JoNoC0/budget-tracker">budget-tracker repo</a>
+<li><a href="https://budget-tracker1126.herokuapp.com/">Heroku Link</a>
 
 
 
